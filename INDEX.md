@@ -174,6 +174,8 @@ Each document is prefixed with a domain code for AI indexing:
 
 ## Domain 08 — Application Development Records
 
+*Domain prefix: HJ-TD-AR*
+
 | # | File | Description | Keywords |
 |:-:|:-----|:------------|:---------|
 | 41 | [Instant Mashed Potato — Rehydration Optimization](domain-08-application-records/app-dev-instant-mashed-potato-rehydration.md) | European ready-meal producer: rehydration ratio from 1:6→1:4.5, viscosity 8500-12000 cP, sensory score +23% | rehydration, instant mash, viscosity, sensory evaluation |

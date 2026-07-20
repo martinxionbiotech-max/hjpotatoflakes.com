@@ -6,9 +6,6 @@ site_description: >-
   farming, storage, processing, quality control, product application, and
   industry compliance.
 
-repo_url: https://github.com/hongji-agriculture/hj-potato-docs
-repo_name: hongji-agriculture/hj-potato-docs
-edit_uri: edit/main/docs/
 
 theme:
   name: material

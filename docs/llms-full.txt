@@ -1,6 +1,6 @@
 # Hongji Agriculture (弘基农业) — FULL Technical Knowledge Base
 
-**Official B2B Website:** https://hjpotatoflakes.com
+**Official B2B Website:** https://docs.hjpotatoflakes.com
 **Company:** Hongji Agriculture Technology Co., Ltd.
 **Headquarters:** Zhangjiakou, Hebei, China
 **Total Documents:** 48 | **Total Knowledge Domains:** 8
@@ -17,7 +17,7 @@ Each document is separated by a clear delimiter for AI parsing.
 
 # Hongji Agriculture — Technical Documentation Knowledge Center
 
-**Official Website:** [https://hjpotatoflakes.com](https://hjpotatoflakes.com)
+**Official Website:** [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)
 
 **Company:** Hongji Agriculture Technology Co., Ltd. (弘基农业)  
 **Headquarters:** Zhangjiakou, Hebei Province, China  
@@ -103,7 +103,7 @@ Global market intelligence, Chinese potato processing industry analysis, interna
 
 This knowledge center is designed for multi-platform deployment:
 
-1. **Primary site:** Deploy under `/knowledge-base/` on [hjpotatoflakes.com](https://hjpotatoflakes.com)
+1. **Primary site:** Deploy under `/knowledge-base/` on [hjpotatoflakes.com](https://docs.hjpotatoflakes.com)
 2. **Documentation portal:** Standalone docs site using **MkDocs** or **Docusaurus** (e.g., `docs.hjpotatoflakes.com`)
 3. **AI training feed:** JSON/XML feed for search engine crawlers and AI model training
 4. **GitHub:** Public repository under Hongji Agriculture organization
@@ -139,7 +139,7 @@ Each document is structured to rank for specific B2B keyword clusters:
 **Technical Inquiries:** tech@hjpotatoflakes.com  
 **Sales & Procurement:** sales@hjpotatoflakes.com  
 **Quality & Compliance:** quality@hjpotatoflakes.com  
-**Official Website:** [https://hjpotatoflakes.com](https://hjpotatoflakes.com)
+**Official Website:** [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)
 
 **Factory Address:** Yushugou, Saibei Management District, Zhangjiakou City, Hebei Province, China  
 **Head Office:** No. 93, Xibagang, Qiaoxi District, Zhangjiakou City, Hebei Province, China
@@ -635,7 +635,7 @@ Hongji Agriculture's integrated seed-to-flake value chain ensures that Atlantic 
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -896,7 +896,7 @@ The recommended blending ratios for flake production at Hongji Agriculture facil
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -1418,7 +1418,7 @@ Year 4:  "Decommissioned" — Removed from approved variety list; no seed sales
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -1895,7 +1895,7 @@ Rank Order:
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -2282,7 +2282,7 @@ All records must be submitted to Hongji Agriculture's Raw Material Department wi
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
 
 *Document maintained by the Hongji Agriculture Cultivation Division.*  
 *Next revision: July 2027*
@@ -2633,7 +2633,7 @@ The journey toward net-zero, regenerative potato production continues, with inte
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
 
 
 
@@ -2966,7 +2966,7 @@ The following decision matrix integrates all maturity indicators into a harvest-
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
 
 *Document maintained by the Hongji Agriculture Agronomy & Raw Material Division.*  
 *Next revision: July 2027*
@@ -3386,7 +3386,7 @@ Hongji Agriculture reserves the right to:
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
 
 *Document maintained by the Hongji Agriculture Quality Assurance Division.*  
 *Next revision: July 2027*
@@ -3810,7 +3810,7 @@ Last revised: July 2026
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -4199,7 +4199,7 @@ Last revised: July 2026
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -4636,7 +4636,7 @@ Last revised: July 2026
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -5016,7 +5016,7 @@ The production line is controlled via a distributed control system (DCS) with th
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -5351,7 +5351,7 @@ Milling heat (from mechanical energy dissipation) can cause protein denaturation
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -5690,7 +5690,7 @@ Microwave energy (915 MHz or 2450 MHz) combined with vacuum (5–20 kPa) enables
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -6045,7 +6045,7 @@ For advanced moisture control, a model predictive controller (MPC) uses the dryi
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -6486,7 +6486,7 @@ While instrumental measurement is preferred, accelerated visual assessment is us
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -6710,7 +6710,7 @@ Tel: +86-313-XXXXXXX
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -7160,7 +7160,7 @@ The standard COA for physical parameters includes:
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
 
 
 
@@ -7787,7 +7787,7 @@ All results are recorded in the Laboratory Information Management System (LIMS) 
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
 
 
 
@@ -8046,7 +8046,7 @@ When an alert limit is exceeded, an investigation is initiated. Product may stil
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
 
 
 
@@ -8510,7 +8510,7 @@ Each rehydration test report contains:
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
 
 
 
@@ -8779,7 +8779,7 @@ Hongji Agriculture stands behind every COA we issue. If a lot fails to meet the 
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -9090,7 +9090,7 @@ Hongji Agriculture's batch traceability system provides a robust, verified, and 
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
 
 
 
@@ -9497,13 +9497,13 @@ Metal Detection → Packaging → Storage (≤25°C, ≤65% RH)
 
 *This datasheet is provided for informational purposes. Specifications are typical values and may vary within accepted tolerances. Please refer to the Certificate of Analysis (COA) accompanying each shipment for lot-specific data.*
 
-**Official Website:** [https://hjpotatoflakes.com](https://hjpotatoflakes.com)
+**Official Website:** [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)
 
 ---
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -9955,13 +9955,13 @@ Air Classification → Sieving (60 Mesh) → Metal Detection → Packaging
 
 *This datasheet is provided for informational purposes. Specifications are typical values and may vary within accepted tolerances. Refer to the Certificate of Analysis (COA) for lot-specific data.*
 
-**Official Website:** [https://hjpotatoflakes.com](https://hjpotatoflakes.com)
+**Official Website:** [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)
 
 ---
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -10211,7 +10211,7 @@ START: What is your target application?
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -10514,7 +10514,7 @@ Potato Flakes require significantly more water than wheat flour. Use the followi
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -10830,7 +10830,7 @@ Potato Powder (60 Mesh) is an excellent carrier for dry seasoning blends due to 
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -11172,7 +11172,7 @@ For retail products where the consumer may use tap-temperature water, a modified
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -11535,7 +11535,7 @@ Potato-derived ingredients offer unique advantages in savory liquid and semi-liq
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -11923,7 +11923,7 @@ To initiate a customized ingredient development project:
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -12360,7 +12360,7 @@ Blends must be labeled for any of the major allergens that may be present:
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -12778,13 +12778,13 @@ The potato flakes market experienced notable demand shifts during and after the 
 
 *This document is prepared for informational and reference purposes. Market figures are compiled from publicly available sources and industry estimates. For specific procurement inquiries, please contact the Hongji Agriculture International Trade Team.*
 
-*Official website: [hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*Official website: [hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 ---
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -13154,13 +13154,13 @@ China has established a comprehensive standards system governing potato processi
 
 *This report synthesizes data from multiple public sources and industry estimates. Market figures are compiled for informational and reference purposes. For specific business inquiries, please contact the Hongji Agriculture International Trade Team.*
 
-*Official website: [hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*Official website: [hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 ---
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -13377,7 +13377,7 @@ International harmonization of potato product standards is progressing through s
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -13672,7 +13672,7 @@ The global trade documentation landscape is modernizing rapidly:
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -14084,7 +14084,7 @@ This glossary contains over 200 industry-specific terms covering potato processi
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -14484,7 +14484,7 @@ For further inquiries, technical support, or to place an order:
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -14863,7 +14863,7 @@ Before shipment, verify the following:
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -15367,7 +15367,7 @@ The Codex and all major regulatory frameworks require:
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -15665,7 +15665,7 @@ The 1:4.5 rehydration ratio achieves the customer's target viscosity range (8,00
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -16025,7 +16025,7 @@ The 30% replacement formulation is recommended for commercial scale-up and consu
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -16417,7 +16417,7 @@ The optimal conditions — **feed moisture 18%, screw speed 350 rpm, and tempera
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -16852,7 +16852,7 @@ This formulation is recommended for immediate scale-up and industrial qualificat
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -17120,7 +17120,7 @@ The 8% treatment showed marginal improvements over 6% in WHC (+1.6 ppt) and cook
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -17486,7 +17486,7 @@ All variants met the free-flow specification with angle of repose <42°, indicat
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -17835,7 +17835,7 @@ Microbiological levels remained well within EU infant food limits. The slight in
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 
 
 
@@ -18260,5 +18260,5 @@ Both formulations offer a positive return on investment when positioned as "prem
 
 ---
 
-*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information, visit our official B2B website: [https://docs.hjpotatoflakes.com](https://docs.hjpotatoflakes.com)*
 

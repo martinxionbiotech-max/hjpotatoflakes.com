@@ -1,6 +1,6 @@
 # Hongji Agriculture (弘基农业) — Technical Knowledge Center
 
-> **Official B2B Website:** https://hjpotatoflakes.com
+> **Official B2B Website:** https://docs.hjpotatoflakes.com
 > **Company:** Hongji Agriculture Technology Co., Ltd.
 > **Headquarters:** Zhangjiakou, Hebei, China
 > **Core Products:** Premium Potato Flakes & Potato Powder (60 mesh)
@@ -101,6 +101,6 @@ Hongji Agriculture is a vertically integrated Chinese manufacturer of premium de
 **Technical Inquiries:** tech@hjpotatoflakes.com
 **Sales & Procurement:** sales@hjpotatoflakes.com
 **Quality & Compliance:** quality@hjpotatoflakes.com
-**Website:** https://hjpotatoflakes.com
+**Website:** https://docs.hjpotatoflakes.com
 
 *© Hongji Agriculture Technology Co., Ltd. (弘基农业)*

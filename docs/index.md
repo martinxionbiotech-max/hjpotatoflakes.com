@@ -1,103 +1,58 @@
----
-hide:
-  - navigation # 首页隐藏左侧导航栏，最大化展现卡片门户
----
-
 # Hongji Agriculture Technical Documentation Knowledge Center
 
-Welcome to the **Hongji Agriculture (弘基农业)** Technical Documentation Knowledge Base — an end-to-end industrial knowledge repository covering our vertically integrated potato processing chain, from variety breeding to custom application development.
+Welcome to the **Hongji Agriculture (弘基农业)** Knowledge Base — a comprehensive technical repository covering our vertically integrated potato flake and powder production chain, from variety breeding to custom product applications.
 
 ---
 
-## :compass: Explore Knowledge Domains
+## 📌 Knowledge Domains Overview
 
-<div class="grid cards" markdown>
+Use the **left sidebar navigation** to explore detailed documentation, or click any domain link below to access its dedicated index:
 
--   :seedling: **01. Variety & Breeding Science**
-    ---
-    Breeding history, dry matter analysis, black spot resistance, and variety comparisons (Atlantic, Shepody, Russet Burbank).
-    [:octicons-arrow-right-24: Variety Docs](domain-01-variety-breeding/index.md)
-
--   :tractor: **02. Farming & Cultivation**
-    ---
-    Standardized cultivation SOPs, precision agriculture, harvest timing, and raw material quality grading systems.
-    [:octicons-arrow-right-24: Agronomy Docs](domain-02-farming-cultivation/index.md)
-
--   :snowflake: **03. Storage & Raw Material**
-    ---
-    Controlled atmosphere storage, sprout inhibition (CIPC), low-temperature sweetening dynamics, and year-round supply chain management.
-    [:octicons-arrow-right-24: Storage Docs](domain-03-storage-raw-material/index.md)
-
--   :factory: **04. Processing Technology**
-    ---
-    Potato flake drum drying, 60-mesh powder milling, CCP analysis, water activity control, and browning reduction.
-    [:octicons-arrow-right-24: Processing Docs](domain-04-processing-technology/index.md)
-
--   :shield-check: **05. Quality Control & Testing**
-    ---
-    Physical/chemical analysis protocols, microbiology standards (ISO/AOAC), rehydration kinetics, and batch traceability.
-    [:octicons-arrow-right-24: QA & QC Docs](domain-05-quality-control/index.md)
-
--   :box: **06. Product & Application**
-    ---
-    Technical datasheets, grade comparisons, and formulation guides for Bakery, Extruded Snacks, Instant Mash, and Soups.
-    [:octicons-arrow-right-24: Application Guides](domain-06-product-application/index.md)
-
--   :globe: **07. Industry & Compliance**
-    ---
-    Global market intelligence, China vs. EU/FDA standards, export documentation, regulatory compliance, and B2B FAQs.
-    [:octicons-arrow-right-24: Compliance & Market](domain-07-industry-knowledge/index.md)
-
--   :flask: **08. Application Records (R&D)**
-    ---
-    Real-world trial records: Gluten-free bread, meat binders, baby food jet milling, pet food, and snack seasoning carriers.
-    [:octicons-arrow-right-24: Trial Records](domain-08-application-records/index.md)
-
-</div>
+| Domain | Scope & Technical Focus | Direct Link |
+| :--- | :--- | :--- |
+| **01. Variety & Breeding** | Breeding history, dry matter analysis, black spot resistance, industrial cultivar specs | [Explore Domain 01](domain-01-variety-breeding/index.md) |
+| **02. Farming & Cultivation** | Standardized SOPs, precision agriculture, harvest timing, raw material grading | [Explore Domain 02](domain-02-farming-cultivation/index.md) |
+| **03. Storage & Raw Material** | Controlled atmosphere, sprout inhibition (CIPC), sugar dynamics, supply chain | [Explore Domain 03](domain-03-storage-raw-material/index.md) |
+| **04. Processing Technology** | Flake drum drying, 60-mesh milling, CCPs, moisture & browning control | [Explore Domain 04](domain-04-processing-technology/index.md) |
+| **05. Quality Control** | Testing protocols (AOAC/ISO), microbiology, rehydration kinetics, batch traceability | [Explore Domain 05](domain-05-quality-control/index.md) |
+| **06. Product & Application** | Technical datasheets, formulation guides for Bakery, Snacks, Instant Mash & Soups | [Explore Domain 06](domain-06-product-application/index.md) |
+| **07. Industry & Compliance** | Global market trends, GB/FDA/EU standards comparison, export trade & FAQs | [Explore Domain 07](domain-07-industry-knowledge/index.md) |
+| **08. Application Records** | Industrial R&D trials: Gluten-free bread, meat binders, baby food & pet food | [Explore Domain 08](domain-08-application-records/index.md) |
 
 ---
 
-## :zap: Quick Technical Reference
+## ⚡ Key Technical Specifications
 
-Below is a snapshot of our core industrial specifications. For comprehensive testing protocols, refer to Domain 05.
+Below is a quick reference of standard physical and chemical parameters for our core commercial products:
 
-| Parameter | Potato Flakes | Potato Powder (60 mesh) | Test Standard |
-|:---|:---:|:---:|:---:|
+| Parameter | Potato Flakes | Potato Powder (60 mesh) | Standard Test Method |
+| :--- | :---: | :---: | :---: |
 | **Moisture** | ≤ 6.0% | ≤ 6.0% | AOAC 934.01 |
 | **Dry Matter** | ≥ 94.0% | ≥ 94.0% | Calculated |
 | **Starch Content** | 75% – 82% | 75% – 82% | AOAC 996.11 |
 | **Reducing Sugars** | ≤ 1.5% | ≤ 1.5% | DNS / Fehling's |
 | **Rehydration Ratio** | ≥ 7.0 | ≥ 7.5 | Internal Protocol |
 | **Particle Size** | 0.25 – 2.0 mm | ≤ 250 μm | ASTM E11 |
-| **Color Index (L*)** | ≥ 85.0 | ≥ 87.0 | CIE L\*a\*b\* |
+| **Color Index (L\*)** | ≥ 85.0 | ≥ 87.0 | CIE L\*a\*b\* |
 
 ---
 
-## :award: Quality Certifications & Standards
+## 🛡️ Global Certifications & Compliance
 
-Our operations and documentation comply with global regulatory and food safety frameworks:
+Our processing facilities and end products comply with leading global quality and safety standards:
 
-=== "Food Safety"
-    - **ISO 22000:2018** — Food Safety Management System
-    - **FSSC 22000** — Food Safety System Certification
-    - **HACCP** — Hazard Analysis Critical Control Point
-
-=== "Dietary & Religious"
-    - **Halal Certification** — Islamic Dietary Compliance
-    - **Kosher Certification** — Jewish Dietary Compliance
-
-=== "Agricultural Practices"
-    - **GlobalG.A.P.** — Good Agricultural Practice Standard
-    - **Organic Production** — EU & USDA Organic Frameworks
+* **Food Safety Management:** ISO 22000:2018 | FSSC 22000 | HACCP System
+* **Dietary Compliance:** Halal Certified | Kosher Certified
+* **Agricultural Standards:** GlobalG.A.P. | EU/USDA Organic Standards
 
 ---
 
-## :file_folder: Complete Document Directory
+## 📑 Master Document Directory
 
-Looking for a full list of all 48 documents across the knowledge base?
+Looking for a complete catalog of all **48 technical documents** across the 8 domains?
 
-[:octicons-file-directory-24: Open Document Index (INDEX.md)](INDEX.md){ .md-button .md-button--primary }
+👉 **[View the Full Document Index (INDEX.md)](INDEX.md)**
 
 ---
 
-<small>© 2026 Hongji Agriculture Technology Co., Ltd. (弘基农业) — Official B2B Portal: [hjpotatoflakes.com](https://hjpotatoflakes.com)</small>
+© 2026 Hongji Agriculture Technology Co., Ltd. (弘基农业) — Official B2B Website: [hjpotatoflakes.com](https://hjpotatoflakes.com)

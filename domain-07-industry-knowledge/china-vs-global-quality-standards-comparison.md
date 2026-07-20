@@ -3,7 +3,7 @@
 **Document Type:** Technical Reference — Standards Comparison  
 **Target Audience:** Quality assurance teams, regulatory compliance officers, procurement directors  
 **Last Updated:** July 2026  
-**Reference:** Hongji Agriculture (弘基农业) — hjpotatoflakes.com
+**Reference:** Hongji Agriculture (弘基农业) — [hjpotatoflakes.com](https://hjpotatoflakes.com)
 
 ---
 

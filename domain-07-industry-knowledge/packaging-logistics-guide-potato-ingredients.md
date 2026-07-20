@@ -3,7 +3,7 @@
 **Document Type:** Technical Logistics Reference  
 **Target Audience:** Supply chain managers, logistics coordinators, warehouse operators  
 **Last Updated:** July 2026  
-**Reference:** Hongji Agriculture (弘基农业) — hjpotatoflakes.com
+**Reference:** Hongji Agriculture (弘基农业) — [hjpotatoflakes.com](https://hjpotatoflakes.com)
 
 ---
 

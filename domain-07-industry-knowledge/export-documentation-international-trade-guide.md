@@ -3,7 +3,7 @@
 **Document Type:** Operational Trade Guide  
 **Target Audience:** Export sales teams, trade compliance officers, logistics coordinators  
 **Last Updated:** July 2026  
-**Reference:** Hongji Agriculture (弘基农业) — hjpotatoflakes.com
+**Reference:** Hongji Agriculture (弘基农业) — [hjpotatoflakes.com](https://hjpotatoflakes.com)
 
 ---
 

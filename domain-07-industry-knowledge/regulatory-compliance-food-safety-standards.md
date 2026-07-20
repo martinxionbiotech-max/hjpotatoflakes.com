@@ -3,7 +3,7 @@
 **Document Type:** Regulatory Compliance Reference  
 **Target Audience:** QA & regulatory compliance managers, export sales teams, food safety auditors  
 **Last Updated:** July 2026  
-**Reference:** Hongji Agriculture (弘基农业) — hjpotatoflakes.com
+**Reference:** Hongji Agriculture (弘基农业) — [hjpotatoflakes.com](https://hjpotatoflakes.com)
 
 ---
 

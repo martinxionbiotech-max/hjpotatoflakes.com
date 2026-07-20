@@ -170,18 +170,21 @@ Each tier reflects increasing quality control stringency, tighter specification 
 ## 12. Price-Performance Decision Matrix
 
 ### For Cost-Sensitive Applications
+
 | Product | Grade | Best Use Case | Cost Efficiency Rating |
 |---------|-------|--------------|----------------------|
 | Potato Flakes | Standard | Pet food, meat filler, bulk bakery | ★★★★★ |
 | Potato Powder | Standard | Dry mix base, extruded snacks | ★★★★☆ |
 
 ### For Quality-Sensitive Applications
+
 | Product | Grade | Best Use Case | Quality Rating |
 |---------|-------|--------------|---------------|
 | Potato Flakes | Premium | Instant mash, premium bakery, EU/NA export | ★★★★★ |
 | Potato Powder | Premium | Premium snack seasonings, batter systems | ★★★★★ |
 
 ### For Certified / Clean-Label Applications
+
 | Product | Grade | Best Use Case | Certification Value |
 |---------|-------|--------------|-------------------|
 | Potato Flakes | Organic | EU/USDA organic formulations | ★★★★★ |

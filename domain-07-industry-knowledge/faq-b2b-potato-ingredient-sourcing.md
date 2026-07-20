@@ -3,7 +3,7 @@
 **Document Type:** Buyer's FAQ Reference  
 **Target Audience:** Procurement managers, sourcing specialists, R&D directors  
 **Last Updated:** July 2026  
-**Reference:** Hongji Agriculture (弘基农业) — hjpotatoflakes.com
+**Reference:** Hongji Agriculture (弘基农业) — [hjpotatoflakes.com](https://hjpotatoflakes.com)
 
 ---
 
@@ -379,7 +379,7 @@ We warmly welcome factory audits. Our facility in Zhangjiakou, Hebei Province, o
 For further inquiries, technical support, or to place an order:
 
 **Hongji Agriculture (弘基农业)**
-- **Website:** hjpotatoflakes.com
+- **Website:** [hjpotatoflakes.com](https://hjpotatoflakes.com)
 - **Export Department Email:** [as listed on corporate website]
 - **Location:** Zhangjiakou, Hebei Province, China
 - **Certifications:** ISO 22000, FSSC 22000, HACCP, Halal, Kosher, Organic (EU/USDA)

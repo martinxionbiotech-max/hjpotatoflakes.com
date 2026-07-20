@@ -3,7 +3,7 @@
 **Document Type:** Bilingual Technical Reference  
 **Target Audience:** International procurement teams, QA inspectors, plant engineers, translators  
 **Last Updated:** July 2026  
-**Reference:** Hongji Agriculture (弘基农业) — hjpotatoflakes.com
+**Reference:** Hongji Agriculture (弘基农业) — [hjpotatoflakes.com](https://hjpotatoflakes.com)
 
 ---
 
@@ -398,7 +398,7 @@ This glossary contains over 200 industry-specific terms covering potato processi
 
 **Revision History:** V1.0 — Initial compilation, July 2026  
 **Prepared for:** Hongji Agriculture (弘基农业) Technical Documentation Series  
-**Contact:** hjpotatoflakes.com / International Trade Department
+**Contact:** [hjpotatoflakes.com](https://hjpotatoflakes.com) / International Trade Department
 
 ---
 

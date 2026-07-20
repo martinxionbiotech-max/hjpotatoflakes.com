@@ -251,4 +251,4 @@ When an alert limit is exceeded, an investigation is initiated. Product may stil
 
 ---
 
-*For more information about Hongji Agriculture's vertically integrated potato supply chain and premium potato ingredients, visit our official website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com) — the official B2B portal of Hongji Agriculture Technology Co., Ltd. (弘基农业).*
+*This document is part of the Hongji Agriculture (弘基农业) Technical Documentation Series. For more information about our vertically integrated potato supply chain — from seed breeding and cultivation to processing and global export — visit our official B2B website: [https://hjpotatoflakes.com](https://hjpotatoflakes.com)*

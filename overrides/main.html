@@ -1,93 +1,191 @@
 {% extends "base.html" %}
 
+
 {% block extrahead %}
-  <!-- Canonical URL -->
-  <link rel="canonical" href="{{ page.canonical_url }}" />
-  <meta property="og:url" content="{{ page.canonical_url }}" />
-  <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="Hongji Agriculture — Technical Documentation Knowledge Center" />
-  <meta property="og:title" content="{{ page.title | default('Hongji Agriculture') }}" />
-  <meta property="og:description" content="{{ page.meta.description if page.meta and page.meta.description else 'Technical documentation knowledge base for Hongji Agriculture potato flake and powder products — from seed breeding to global export.' }}" />
-  <meta name="twitter:card" content="summary_large_image" />
 
-  <!-- JSON-LD: Organization + WebSite + TechArticle -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
+<!-- Canonical URL -->
+<link rel="canonical" href="{{ page.canonical_url }}" />
+
+<!-- Open Graph -->
+<meta property="og:url" content="{{ page.canonical_url }}" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Hongji Agriculture — Technical Documentation Knowledge Center" />
+<meta property="og:title" content="{{ page.title | default('Hongji Agriculture Technical Documentation') }}" />
+<meta property="og:description" content="{{ page.meta.description if page.meta and page.meta.description else 'Technical documentation knowledge base for Hongji Agriculture potato flake and powder products — from seed breeding to global export.' }}" />
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+
+
+<!-- ============================= -->
+<!-- Organization Entity Schema -->
+<!-- ============================= -->
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://docs.hjpotatoflakes.com/#organization",
+  "name": "Hongji Agriculture Technology Co., Ltd.",
+  "alternateName": "弘基农业",
+  "url": "https://hjpotatoflakes.com",
+  "description": "Vertically integrated potato flake and potato powder manufacturer specializing in cultivation, processing, quality control and global export.",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://hjpotatoflakes.com/wp-content/uploads/logo.png"
+  },
+  "brand": {
+    "@type": "Brand",
+    "name": "Hongji Agriculture"
+  },
+  "sameAs": [
+    "https://hjpotatoflakes.com"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "sales",
+    "email": "sales@hjpotatoflakes.com",
+    "availableLanguage": [
+      "English",
+      "Chinese"
+    ]
+  }
+}
+</script>
+
+
+<!-- ============================= -->
+<!-- Website Entity Schema -->
+<!-- ============================= -->
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://docs.hjpotatoflakes.com/#website",
+  "url": "https://docs.hjpotatoflakes.com",
+  "name": "Hongji Agriculture Technical Documentation Knowledge Center",
+  "description": "Official technical documentation hub covering potato flakes, potato powder, specifications, certificates and manufacturing knowledge.",
+  "publisher": {
+    "@id": "https://docs.hjpotatoflakes.com/#organization"
+  }
+}
+</script>
+
+
+<!-- ============================= -->
+<!-- Technical Article Schema -->
+<!-- ============================= -->
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "@id": "{{ page.canonical_url }}#article",
+  "headline": {{ page.title | default('Hongji Agriculture Technical Documentation') | tojson }},
+  "description": {{ page.meta.description if page.meta and page.meta.description else 'Potato flake and potato powder technical documentation.' | tojson }},
+  "url": "{{ page.canonical_url }}",
+
+  "author": {
     "@type": "Organization",
-    "@id": "https://docs.hjpotatoflakes.com/#organization",
-    "name": "Hongji Agriculture Technology Co., Ltd.",
-    "alternateName": "弘基农业",
-    "url": "https://docs.hjpotatoflakes.com",
-    "sameAs": ["https://hjpotatoflakes.com"],
-    "description": "China's leading vertically integrated potato flake and powder manufacturer — from seed breeding and cultivation to processing and global export.",
-    "brand": {
-      "@type": "Brand",
-      "name": "Hongji Agriculture"
-    },
-    "contactPoint": {
-      "@type": "ContactPoint",
-      "email": "sales@hjpotatoflakes.com",
-      "contactType": "sales",
-      "availableLanguage": ["English", "Chinese"]
-    }
-  }
-  </script>
+    "@id": "https://docs.hjpotatoflakes.com/#organization"
+  },
 
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "@id": "https://docs.hjpotatoflakes.com/#website",
-    "url": "https://docs.hjpotatoflakes.com",
-    "name": "Hongji Agriculture — Technical Documentation Knowledge Center",
-    "description": "Technical documentation knowledge base for Hongji Agriculture's vertically integrated potato flake and powder products.",
-    "publisher": {
-      "@id": "https://docs.hjpotatoflakes.com/#organization"
-    }
-  }
-  </script>
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://docs.hjpotatoflakes.com/#organization"
+  },
 
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "TechArticle",
-    "@id": "{{ page.canonical_url }}#article",
-    "headline": "{{ page.title | default('Hongji Agriculture Technical Documentation') }}",
-    "description": "{{ page.meta.description if page.meta and page.meta.description else 'Potato flake and powder technical documentation' }}",
-    "url": "{{ page.canonical_url }}",
-    "author": {
-      "@type": "Organization",
-      "@id": "https://docs.hjpotatoflakes.com/#organization"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "@id": "https://docs.hjpotatoflakes.com/#organization"
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "{{ page.canonical_url }}"
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.canonical_url }}"
+  },
+
+  "dateModified": "2026-07-22"
+}
+</script>
+
+
+
+<!-- ============================= -->
+<!-- Accessibility Fix -->
+<!-- Material Search Dialog ARIA -->
+<!-- ============================= -->
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+    const searchDialog = document.querySelector(".md-search");
+
+    if (searchDialog && !searchDialog.hasAttribute("aria-label")) {
+        searchDialog.setAttribute(
+            "aria-label",
+            "Search documentation"
+        );
     }
-  }
-  </script>
+
+});
+</script>
+
+
 {% endblock %}
 
+
+
+
 {% block footer %}
+
 <footer class="md-footer">
-  <div class="md-footer-meta md-typeset">
-    <div class="md-footer-meta__inner md-grid">
-      <div class="md-footer-copyright">
-        &copy; 2026 <a href="https://hjpotatoflakes.com">Hongji Agriculture Technology Co., Ltd. (弘基农业)</a>
-        — Official Technical Documentation Center
-      </div>
-      <div class="md-footer-links">
-        <a href="https://hjpotatoflakes.com">Main Website: hjpotatoflakes.com</a>
-        &nbsp;|&nbsp;
-        <a href="https://github.com/hongji-agriculture/hj-potato-docs">Source: GitHub</a>
-        &nbsp;|&nbsp;
-        <a href="mailto:sales@hjpotatoflakes.com">Email: sales@hjpotatoflakes.com</a>
-      </div>
-    </div>
-  </div>
+
+<div class="md-footer-meta md-typeset">
+
+<div class="md-footer-meta__inner md-grid">
+
+
+<div class="md-footer-copyright">
+
+© 2026
+
+<a href="https://hjpotatoflakes.com">
+Hongji Agriculture Technology Co., Ltd. (弘基农业)
+</a>
+
+<br>
+
+Official Technical Documentation Knowledge Center
+
+</div>
+
+
+<div class="md-footer-links">
+
+<a href="https://hjpotatoflakes.com">
+Main Website
+</a>
+
+&nbsp;|&nbsp;
+
+
+<a href="https://github.com/hongji-agriculture/hj-potato-docs">
+GitHub Source
+</a>
+
+&nbsp;|&nbsp;
+
+
+<a href="mailto:sales@hjpotatoflakes.com">
+Contact Sales
+</a>
+
+
+</div>
+
+
+</div>
+
+</div>
+
 </footer>
+
+
 {% endblock %}
